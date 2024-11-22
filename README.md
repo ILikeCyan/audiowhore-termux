@@ -2,9 +2,9 @@
 
 
 
-1. Clone this repo 'git clone https://github.com/ILikeCyan/audiowhore-termux.git & & cd audiowhore-termux'
+1. Clone this repo 'git clone https://github.com/ILikeCyan/audiowhore-termux.git && cd audiowhore-termux'
 2. dpkg install zsh set as default
-3. Run 'cp audiowhore-termux/.zshrc $HOME/.zshrc -r'
+3. Run 'cp audiowhore-termux/* $HOME/ -r'
 4. Run 'pip install qobuz-dl'
 5. Create a new qobuz account and select the trial option
 6. Restart termux
