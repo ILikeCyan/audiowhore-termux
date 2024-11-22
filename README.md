@@ -1,7 +1,7 @@
 # audiowhore-termux
 
 
-
+INSTALL root-repo 
 1. Clone this repo 'git clone https://github.com/ILikeCyan/audiowhore-termux.git && cd audiowhore-termux'
 2. dpkg install zsh set as default
 3. Run 'cp audiowhore-termux/* $HOME/ -r'
