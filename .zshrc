@@ -86,40 +86,7 @@ plugins=(git
  thefuck
  autojump
  jsontools
- colored-man-pages
- zsh-autosuggestions
- zsh-syntax-highlighting
- zsh-history-substring-search
- extract
- thefuck
- autojump
- jsontools
- colored-man-pages
- zsh-autosuggestions
- zsh-syntax-highlighting
- zsh-history-substring-search
  nvm
- debian
- extract
- thefuck
- autojump
- jsontools
- colored-man-pages
- zsh-autosuggestions
- zsh-syntax-highlighting
- zsh-history-substring-search
- nvm
- debian
- extract
- thefuck
- autojump
- jsontools
- colored-man-pages
- zsh-autosuggestions
- zsh-syntax-highlighting
- zsh-history-substring-search
- nvm
- zsh-interactive-cd
  debian)
 
 export ZSH_COMPDUMP=$ZSH/cache/.zcompdump-$HOST
