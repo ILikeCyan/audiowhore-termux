@@ -15,3 +15,4 @@ pkg install root-repo, git,python, and openssl
 
 
 
+Generate a new email every month
