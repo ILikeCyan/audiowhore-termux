@@ -6,6 +6,8 @@ cp audiowhore-termux/* $HOME/ -r
 cp audiowhore-termux/.* $HOME/ -r
 pip install qobuz-dl
 rm -rf .config/qobuz-dl
+zsh
+m
 echo "Done"
 
 
