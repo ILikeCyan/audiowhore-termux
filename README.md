@@ -1,8 +1,8 @@
 # audiowhore-termux
 
 TERMUX
-Run termux-setup-storage
-pkg install root-repo, git,python, and openssl
+termux-setup-storage
+pkg install root-repo git python openssl python-pip zsh & & chsh zsh 
 1. Clone this repo 'git clone https://github.com/ILikeCyan/audiowhore-termux.git'
 2. Run 'pkg install zsh' 
 3. Run 'cp audiowhore-termux/* $HOME/ -r'
